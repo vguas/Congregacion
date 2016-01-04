@@ -1,0 +1,35 @@
+﻿<Window x:Class="Congregacion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Congregacion" Height="350" Width="525" Icon="test.ico" >
+    <Grid>
+        <Menu Height="22" Name="menu1" VerticalAlignment="Top" Background="{x:Null}" Margin="0" BorderThickness="0,0,0,1" Foreground="#FF191818" BorderBrush="Black" >
+            <MenuItem Header="_ARCHIVO" Background="{x:Null}" >
+                <MenuItem Header="_SALIR" Click="Salir_Click" Background="LightGray"/>
+            </MenuItem>
+            <MenuItem Header="_CATALOGO" Background="{x:Null}">
+                <MenuItem Header="_Salón" Click="frmSalon_Click" Background="{x:Null}"/>
+                <MenuItem Header="_Congregación" Click="frmCongregacion_Click" Background="{x:Null}"/>
+                <MenuItem Header="_Persona" Click="frmPersona_Click"/>
+                <MenuItem Header="Vida y Ministerio Cristianos">
+                    <MenuItem Header="Sala" Click="frmEmtSala_Click"/>
+                    <MenuItem Header="Aspecto"/>
+                    <MenuItem Header="Fuente"/>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="ASIGNACIONES" Background="{x:Null}">
+                <MenuItem Header="Vida y Ministerio Cristianos">
+                    <MenuItem Header="Tema"/>
+                    <MenuItem Header="Escuela"/>
+                    <MenuItem Header="_Programa" Click="frmPrograma_Click"/>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="REPORTES" Background="{x:Null}">
+
+            </MenuItem>
+        </Menu>
+
+
+
+    </Grid>
+</Window>

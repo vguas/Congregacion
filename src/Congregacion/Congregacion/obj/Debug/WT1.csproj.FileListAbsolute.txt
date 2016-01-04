@@ -1,0 +1,114 @@
+D:\VG\Documents\WT\src\WT1\WT1\bin\Debug\WT1.exe.config
+D:\VG\Documents\WT\src\WT1\WT1\bin\Debug\WT1.exe
+D:\VG\Documents\WT\src\WT1\WT1\bin\Debug\WT1.pdb
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\WT1.csprojResolveAssemblyReference.cache
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\MainWindow.baml
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\MainWindow.g.cs
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\App.g.cs
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\WT1_MarkupCompile.cache
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\WT1.g.resources
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\WT1.Properties.Resources.resources
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\WT1.csproj.GenerateResource.Cache
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\WT1.exe
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\WT1.pdb
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\Congregacion.baml
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\Congregacion.g.cs
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\Persona.baml
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\Persona.g.cs
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\emtSala.baml
+D:\VG\Documents\WT\src\WT1\WT1\obj\Debug\emtSala.g.cs
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\bin\Debug\WT1.exe.config
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\bin\Debug\WT1.exe
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\bin\Debug\WT1.pdb
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\Congregacion.baml
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\emtSala.baml
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\MainWindow.baml
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\Persona.baml
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\Congregacion.g.cs
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\emtSala.g.cs
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\MainWindow.g.cs
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\Persona.g.cs
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\App.g.cs
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\WT1_MarkupCompile.cache
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\WT1.g.resources
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\WT1.Properties.Resources.resources
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\WT1.csproj.GenerateResource.Cache
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\WT1.exe
+C:\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\WT1.pdb
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\bin\Debug\WT1.exe.config
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\WT1.exe
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\WT1.pdb
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\bin\Debug\WT1.exe
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\bin\Debug\WT1.pdb
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\WT1.csprojResolveAssemblyReference.cache
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\Congregacion.baml
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\emtSala.baml
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\MainWindow.baml
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\Persona.baml
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\Congregacion.g.cs
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\emtSala.g.cs
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\MainWindow.g.cs
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\Persona.g.cs
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\App.g.cs
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\WT1_MarkupCompile.cache
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\WT1.g.resources
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\WT1.Properties.Resources.resources
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\WT1.csproj.GenerateResource.Cache
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\Salon.baml
+C:\Backup C\Drive\Users\Verdy\Documents\WT\src\WT1\WT1\WT1\obj\Debug\Salon.g.cs
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\bin\Debug\WT1.exe.config
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\WT1.exe
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\WT1.pdb
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\bin\Debug\WT1.exe
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\bin\Debug\WT1.pdb
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\WT1.csprojResolveAssemblyReference.cache
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\Congregacion.baml
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\emtSala.baml
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\Login.baml
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\MainWindow.baml
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\Persona.baml
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\Salon.baml
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\Congregacion.g.cs
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\emtSala.g.cs
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\Login.g.cs
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\MainWindow.g.cs
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\Persona.g.cs
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\Salon.g.cs
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\App.g.cs
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\WT1_MarkupCompile.cache
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\WT1.g.resources
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\WT1.Properties.Resources.resources
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\WT1.csproj.GenerateResource.Cache
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\Programa.baml
+C:\Users\vguas.DESARROLLO\Google Drive\WT\WT\src\WT1\WT1\WT1\obj\Debug\Programa.g.cs
+C:\WT\src\WT1\WT1\WT1\bin\Debug\WT1.exe.config
+C:\WT\src\WT1\WT1\WT1\obj\Debug\WT1.exe
+C:\WT\src\WT1\WT1\WT1\obj\Debug\WT1.pdb
+C:\WT\src\WT1\WT1\WT1\bin\Debug\WT1.exe
+C:\WT\src\WT1\WT1\WT1\bin\Debug\WT1.pdb
+C:\WT\src\WT1\WT1\WT1\obj\Debug\WT1.csprojResolveAssemblyReference.cache
+C:\WT\src\WT1\WT1\WT1\obj\Debug\Congregacion.baml
+C:\WT\src\WT1\WT1\WT1\obj\Debug\emtSala.baml
+C:\WT\src\WT1\WT1\WT1\obj\Debug\Login.baml
+C:\WT\src\WT1\WT1\WT1\obj\Debug\MainWindow.baml
+C:\WT\src\WT1\WT1\WT1\obj\Debug\Persona.baml
+C:\WT\src\WT1\WT1\WT1\obj\Debug\Programa.baml
+C:\WT\src\WT1\WT1\WT1\obj\Debug\Salon.baml
+C:\WT\src\WT1\WT1\WT1\obj\Debug\Congregacion.g.cs
+C:\WT\src\WT1\WT1\WT1\obj\Debug\emtSala.g.cs
+C:\WT\src\WT1\WT1\WT1\obj\Debug\Login.g.cs
+C:\WT\src\WT1\WT1\WT1\obj\Debug\MainWindow.g.cs
+C:\WT\src\WT1\WT1\WT1\obj\Debug\Persona.g.cs
+C:\WT\src\WT1\WT1\WT1\obj\Debug\Programa.g.cs
+C:\WT\src\WT1\WT1\WT1\obj\Debug\Salon.g.cs
+C:\WT\src\WT1\WT1\WT1\obj\Debug\App.g.cs
+C:\WT\src\WT1\WT1\WT1\obj\Debug\WT1_MarkupCompile.cache
+C:\WT\src\WT1\WT1\WT1\obj\Debug\WT1.g.resources
+C:\WT\src\WT1\WT1\WT1\obj\Debug\WT1.Properties.Resources.resources
+C:\WT\src\WT1\WT1\WT1\obj\Debug\WT1.csproj.GenerateResource.Cache
+\\Amonzon-pc\wt\src\WT1\WT1\WT1\bin\Debug\WT1.exe.config
+\\Amonzon-pc\wt\src\WT1\WT1\WT1\obj\Debug\WT1.exe
+\\Amonzon-pc\wt\src\WT1\WT1\WT1\obj\Debug\WT1.pdb
+C:\Users\vguas.DESARROLLO\Downloads\WT\WT\src\WT1\WT1\WT1\bin\Debug\WT1.exe.config
+C:\Users\vguas.DESARROLLO\Downloads\WT\WT\src\WT1\WT1\WT1\obj\Debug\WT1.exe
+C:\Users\vguas.DESARROLLO\Downloads\WT\WT\src\WT1\WT1\WT1\obj\Debug\WT1.pdb

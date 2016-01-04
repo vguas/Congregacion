@@ -1,0 +1,14 @@
+﻿<Window x:Class="Congregacion.emtSala"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sala" Height="300" Width="580" Background="LightGray" >
+    <Grid>
+        <Menu Height="22" x:Name="menu1" VerticalAlignment="Top" Width="572" HorizontalAlignment="Left" Background="Transparent">
+            <MenuItem Header="_Nuevo" />
+            <MenuItem Header="_Guardar"  />
+            <MenuItem Header="_Cancelar" />
+            <MenuItem Header="_Salir" Click="Salir_Click"/>
+        </Menu>
+
+    </Grid>
+</Window>
