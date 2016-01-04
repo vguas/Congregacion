@@ -1,3 +1,8 @@
+/*
+Fecha de Creación: 04/01/2016
+Creado por: Verdy Guas Gramajo
+Descripcion: Procedimientos para proyecto de Congregacion
+*/
 drop procedure if exists wt.Salon_ADD;
 
 create procedure wt.Salon_ADD (in Codigo varchar(20), Direccion varchar(100), Colonia varchar(20),
