@@ -30,7 +30,7 @@
             <MenuItem x:Name="mnuitmLimpiar" Header="LIMPIAR" Background="{x:Null}" Click="mnuitmLimpiar_Click" />
         </Menu>
         <ListBox x:Name="lblSugerencias2" HorizontalAlignment="Left" Height="54" Margin="431,153,0,0" VerticalAlignment="Top" Width="226" SelectionChanged="lblSugerencias2_SelectionChanged"/>
-        <ListBox x:Name="lblSugerencias3" HorizontalAlignment="Left" Height="53" Margin="138,187,0,0" VerticalAlignment="Top" Width="289" SelectionChanged="lblSugerencias3_SelectionChanged"/>
+        <ListBox x:Name="lblSugerencias3" HorizontalAlignment="Left" Height="53" Margin="137,190,0,0" VerticalAlignment="Top" Width="289" SelectionChanged="lblSugerencias3_SelectionChanged"/>
         <TextBox x:Name="txtAspecto" HorizontalAlignment="Left" Height="23" Margin="137,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="289" TextChanged="txtAspecto_TextChanged"/>
         <ListBox x:Name="lblSugerencias" HorizontalAlignment="Left" Height="53" Margin="78,152,0,0" VerticalAlignment="Top" Width="226" SelectionChanged="lblSugerencias_SelectionChanged"/>
 
